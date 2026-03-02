@@ -1,0 +1,21 @@
+IDProduto,NomeProduto,Categoria,Preco
+101,"Camisola Básica","Vestuário",19.90
+102,"Calças de Ganga","Vestuário",39.90
+103,"Sapatilhas Running","Calçado",59.90
+104,"Smartphone X1","Eletrónica",299.00
+105,"Portátil Pro 15","Eletrónica",999.00
+106,"Auriculares Bluetooth","Acessórios",29.90
+107,"Relógio Digital","Acessórios",49.90
+108,"Casaco Inverno","Vestuário",89.90
+109,"Mouse Sem Fios","Eletrónica",24.90
+110,"Teclado Mecânico","Eletrónica",59.00
+111,"Mochila Urbana","Acessórios",35.50
+112,"TV 42 Polegadas","Eletrónica",449.00
+113,"Livro: Aprender Python","Livros",25.00
+114,"Livro: Cozinha Saudável","Livros",15.50
+115,"Cadeira de Escritório","Casa",199.00
+116,"Fogão Eléctrico","Casa",299.00
+117,"Bola de Futebol","Desporto",29.90
+118,"Raquete de Ténis","Desporto",79.90
+119,"Sofá 3 Lugares","Casa",499.00
+120,"Ventoinha de Mesa","Casa",39.90
