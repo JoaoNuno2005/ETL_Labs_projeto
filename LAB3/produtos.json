@@ -1,0 +1,47 @@
+[
+    {
+      "id": 101,
+      "nome": "Camisola Básica",
+      "categoria": "Vestuário",
+      "preco": 19.90,
+      "variantes": ["S", "M", "L"]
+    },
+    {
+      "id": 102,
+      "nome": "Calças de Ganga",
+      "preco": "39.90",
+      "variantes": "32,34,36",
+      "descricao": "Tecido azul escuro"
+    },
+    {
+      "id": 103,
+      "nome": "Sapatilhas Running",
+      "categoria": "Calçado",
+      "preco": 59.9
+    },
+    {
+      "id": 104,
+      "nome": "Smartphone X1",
+      "preco": 299.00
+    },
+    {
+      "id": 105,
+      "nome": "Portátil Pro 15",
+      "categoria": "Eletrónica",
+      "preco": "999",
+      "variantes": []
+    },
+    {
+      "id": 106,
+      "nome": "Auriculares Bluetooth",
+      "categoria": null,
+      "preco": "29,90",
+      "variantes": ["preto", "branco"]
+    },
+    {
+      "nome": "Casaco Inverno",
+      "categoria": "Vestuário",
+      "preco": 89.90
+    }
+  ]
+  

@@ -1,0 +1,11 @@
+id,nome,idade,salario
+1,"Ana, Silva",,1500.0
+2,   Pedro,25,
+3,"Carla, 'Cacá'",28,2000.5
+4,"Rui",,"1200,20"
+5,"Marcia",40,2100.4
+6,"André, Teste",30,""
+7,"Rodrigo, P",," "
+8,"Silvia, Maria",29,"1.300,45"
+9,"",,2000
+10,"Luis, P  ",25,1000

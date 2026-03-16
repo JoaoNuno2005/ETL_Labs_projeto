@@ -1,0 +1,4 @@
+LINHA 9: 8,"Silvia, Maria",29,"1.300,45"
+  - Corrigido: Salário inválido '1.300.45' convertido para 0.0
+  - Resultado: ['8', 'Silvia, Maria', '29', '0.00']
+

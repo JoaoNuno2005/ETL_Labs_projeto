@@ -1,0 +1,24 @@
+LOG DE ERROS - FICHEIRO: clientes.csv
+--------------------------------------------------
+LINHA 2: 1,"Ana, Silva",,1500.0
+  -> ERRO: Campo 'Idade' vazio
+
+LINHA 3: 2,   Pedro,25,
+  -> ERRO: Campo 'Salario' vazio
+
+LINHA 5: 4,"Rui",,"1200,20"
+  -> ERRO: Campo 'Idade' vazio
+
+LINHA 7: 6,"André, Teste",30,""
+  -> ERRO: Campo 'Salario' vazio
+
+LINHA 8: 7,"Rodrigo, P",," "
+  -> ERRO: Campo 'Idade' vazio
+  -> ERRO: Campo 'Salario' vazio
+
+LINHA 9: 8,"Silvia, Maria",29,"1.300,45"
+  -> ERRO: Caracter estranho no Salário: '1.300,45'
+
+LINHA 10: 9,"",,2000
+  -> ERRO: Campo 'Idade' vazio
+
